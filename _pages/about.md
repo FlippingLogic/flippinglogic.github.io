@@ -9,7 +9,7 @@ redirect_from:
 
 I am an undergraduate student in both Zhejiang University and University of Illinois Urbana-Champaign.
 
-## Research Interest
+## Education
 - B.E. in Electrical Engineering and Automation at Zhejiang University, China
   - Sep 2021 - Present
   - GPA: 3.85 / 4.00, Rank: 2 / 65  
