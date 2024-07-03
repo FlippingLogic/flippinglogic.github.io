@@ -9,8 +9,7 @@ redirect_from:
 
 I am an undergraduate student in both Zhejiang University and University of Illinois Urbana-Champaign.
 
-Education
-======
+## Research Interest
 - B.E. in Electrical Engineering and Automation at Zhejiang University, China
   - Sep 2021 - Present
   - GPA: 3.85 / 4.00, Rank: 2 / 65  
@@ -18,6 +17,5 @@ Education
   - Aug 2021 - Present
   - GPA: 3.96 / 4.00, Major GPA: 3.97 / 4.00  
 
-Research Interest
-======
-Computer Architecture, VLSI, hardware software co-design, AI chip
+## Research Interest
+Computer Architecture, VLSI, Hardware/Software Co-design, AI for Chip Design, AI Chip
